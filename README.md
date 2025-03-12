@@ -1,2 +1,1 @@
-# Ejercicios_Minutos_Areas_Minimo_Maximo_Listas_Python
- Enunciado y solución de ejercicios resueltos en Python minutos áreas y mínimo máximo lista de números
+Algunos ejercicios en Python con su enunciado y solución: calcular el número de minutos y segundos de un número de segundos, calcular el área de un triángulo o un círculo y calcular el máximo, el mínimo, la media y la mediana de una lista de números. .Se incluye la descarga del código fuente completo de los ejercicios en Python. Más información en: https://proyectoa.com/enunciado-y-solucion-de-ejercicios-resueltos-en-python-minutos-areas-y-minimo-maximo-lista-de-numeros/
